@@ -1,3 +1,4 @@
+![logo](https://github.com/Akshay1721/Akshay1721/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Akshay Khandare</h1>
 <h3 align="center">A passionate ML enthusiast</h3>
 
